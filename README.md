@@ -23,12 +23,4 @@ Portable device to control digital layouts using WiThrottle protocol.
 
 ## Documentation
 
- - **TFT** color screen
- - **Battery** powered with built-in **USB charger**
- - Server **auto-discovery** (mDNS)
- - Configurable **favourite list** of locomotives
- - Support of JMRI **rosters**
- - Control of locomotive **speed** (128 steps) and **direction**
- - Control of 8 decoder **functions**
- - Layout **power** control
- - *Fixed address* mode
+ - tbd
