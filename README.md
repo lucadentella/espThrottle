@@ -23,4 +23,4 @@ Portable device to control digital layouts using WiThrottle protocol.
 
 ## Documentation
 
- - tbd
+ - [Part list](https://github.com/lucadentella/espThrottle/tree/main/documentation/partlist.md)
