@@ -25,3 +25,4 @@ Portable device to control digital layouts using WiThrottle protocol.
 ## Documentation
 
  - [Part list](https://github.com/lucadentella/espThrottle/tree/main/documentation/partlist.md)
+ - [Configuration manual](https://github.com/lucadentella/espThrottle/tree/main/documentation/configuration.md)
