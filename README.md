@@ -1,4 +1,5 @@
 # espThrottle
+![](https://github.com/lucadentella/espThrottle/raw/main/images/throttle-cover.png)
 
 ## Description
 Portable device to control digital layouts using WiThrottle protocol.
