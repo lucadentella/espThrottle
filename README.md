@@ -26,3 +26,4 @@ Portable device to control digital layouts using WiThrottle protocol.
 
  - [Part list](https://github.com/lucadentella/espThrottle/tree/main/documentation/partlist.md)
  - [Configuration manual](https://github.com/lucadentella/espThrottle/tree/main/documentation/configuration.md)
+ - [How to use Roster Groups](https://github.com/lucadentella/espThrottle/tree/main/documentation/rostergroup.md)
