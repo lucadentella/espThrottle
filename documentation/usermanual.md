@@ -29,7 +29,7 @@ Using the main menu you can choose **which locomotive** the throttle will contro
 
  - by entering the address manually
  - by selecting the loco from a favourite list
- - by selecting the loco from JMRI roster
+ - by selecting the loco from [JMRI roster](https://github.com/lucadentella/espThrottle/tree/main/documentation/rostergroup.md)
 
 You can also turn the **track power** ON / OFF.
 
