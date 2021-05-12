@@ -1,4 +1,4 @@
-# Configuration
+# Configuration :gear:
 
 espThrottle behavior can be configured by editing the **config.h** file:
 ![](https://github.com/lucadentella/espThrottle/raw/main/images/config-h.png)
