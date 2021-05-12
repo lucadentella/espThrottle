@@ -1,4 +1,4 @@
-# Part list
+# Part list :gift:
 | ID | Description | 
 |--|--|
 | R1,R2 | Resistor, 10Kohm 1/4W |
