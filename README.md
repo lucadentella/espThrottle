@@ -2,9 +2,12 @@
 ![](https://github.com/lucadentella/espThrottle/raw/main/images/throttle-cover.png)
 
 ## Description
+
 Portable device to control digital layouts using WiThrottle protocol.
 
-## Features
+![GitHub](https://img.shields.io/github/license/lucadentella/espThrottle)
+
+## Features :trophy:
 
  - **TFT** color screen
  - **Battery** powered with built-in **USB charger**
@@ -16,13 +19,13 @@ Portable device to control digital layouts using WiThrottle protocol.
  - Layout **power** control
  - *Fixed address* mode
 
-## Resources
+## Resources :open_file_folder:
 
  - [Eagle files](https://github.com/lucadentella/espThrottle/tree/main/Eagle) (schematic / PCB)
  - [Arduino firmware](https://github.com/lucadentella/espThrottle/tree/main/Arduino)
  - [3d printable case](https://github.com/lucadentella/espThrottle/tree/main/case) (STL)
 
-## Documentation
+## Documentation :notebook:
 
  - [User manual](https://github.com/lucadentella/espThrottle/tree/main/documentation/usermanual.md)
  - [Configuration manual](https://github.com/lucadentella/espThrottle/tree/main/documentation/configuration.md)
