@@ -5,7 +5,7 @@
 
 Portable device to control digital layouts using WiThrottle protocol.
 
-![GitHub](https://img.shields.io/github/license/lucadentella/espThrottle)
+![](https://img.shields.io/badge/license-CC--BY--NC--SA-green)
 
 ## Features :trophy:
 
